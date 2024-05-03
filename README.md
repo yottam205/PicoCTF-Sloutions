@@ -2,10 +2,13 @@
 #### Below are my attempts to solve the PicoCTF challenges
 
 **PicoCTF – How I’ve done things:**
+
 I am just getting into the world of cyber security and one of the million things I’ve heard in the past few weeks is CTF or Capture the Flag. Which is a kind of a technical challenge you need to complete. Here I’m trying to show my ways of making these challenges. It is well worth to note that PicoCTF is a middle/high school aimed platform, meaning they aim for that age. But, as a beginner in Cyber Security I believe I can get great value from these challenges and then, move on to others.
 It is worth noting that I have started solving these challenges during on doing the Google Cyber Security certification and after studying both introduction to computer science (CS50) and introduction to programming with Python (CS50P) from EdX and Harvard Uni.
 
-**1 Obedient Cat:**
+
+** Obedient Cat:**
+
 After signing up, that’s the first challenge I saw:
 
 <img width="198" alt="image" src="https://github.com/yottam205/PicoCTF-Sloutions/assets/117525375/f4f166e2-4e74-4127-afe1-2ec3ba17ea54">
@@ -31,8 +34,10 @@ I tried to open the file using the ‘cat’ command and inside the file was the
 
 I didn’t feel it was necessary to take pictures of pasting the flag back in the challenge window.
 The challenge was super easy and required almost no previous skills to figure out what is going on in it. Please note I didn’t use the hints although it is important to feel free and comfortable to use them, because at the end of the day, what we’re trying to do is to learn.
+
  
 **Mod 26:**
+
 This challenge is in the Cryptography section and it is pretty straight forward as well:
 
 <img width="272" alt="image" src="https://github.com/yottam205/PicoCTF-Sloutions/assets/117525375/e2ddc7fe-1633-486f-975f-f5df64dc8da6">
@@ -44,8 +49,9 @@ There, I’ve copied and pasted the encrypted part from the challenge window to 
 
 From there I’ve just copied and pasted the flag into the challenge window and that was it.
 
- 
+ 
 **Python Wrangling**
+
 First things first, I’ve made a new directory in the Webshell called Python Wrangling.
 After that I’ve downloaded the files from the challenge’s window, same as I’ve done in the first challenge. (Don’t feel like there’s a need to picture how I’ve done it after the first one)
 After downloading all three files, the challenge directory looks like this:
@@ -93,9 +99,8 @@ The result is actually the flag. I was a little surprised it worked, but good fo
 <img width="468" alt="image" src="https://github.com/yottam205/PicoCTF-Sloutions/assets/117525375/52ef9b2e-abfd-4a54-976e-cca4709f60c3">
 
 
-
- 
 **Wave a flag**
+
 To be honest, I found out that how I solved this challenge was wrong, so ill post here the way I’ve done it and the way it should be.
 My way:
 So I started with making a new directory and getting the relevant file in it. After that I tried to open the file using the ‘cat’ command and got overwhelmed with some weird text I didn’t knew what to do with (I won’t be posting the whole file, just the begging because that is what’s relevant):
