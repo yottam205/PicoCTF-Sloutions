@@ -7,7 +7,7 @@ I am just getting into the world of cyber security and one of the million things
 It is worth noting that I have started solving these challenges during on doing the Google Cyber Security certification and after studying both introduction to computer science (CS50) and introduction to programming with Python (CS50P) from EdX and Harvard Uni.
 
 
-** Obedient Cat**
+**Obedient Cat**
 
 After signing up, that’s the first challenge I saw:
 
