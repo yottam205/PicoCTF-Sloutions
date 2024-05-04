@@ -12,6 +12,7 @@ It is worth noting that I have started solving these challenges during on doing 
 <details>
 
 <summary>General Skills</summary>
+
 |Question|Points|
 |--------|------|
 |[Obedient Cat](General Skills/Obedient_Cat.md)|5|
@@ -23,9 +24,12 @@ It is worth noting that I have started solving these challenges during on doing 
 <details>
 
 <summary>Cryptography</summary>
+
 |Question|Points|
 |--------|------|
 |[Mod26](Cryptography/Mod26.md)[10]
+
+</details>
 
 **Obedient Cat**
 
