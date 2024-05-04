@@ -15,9 +15,9 @@ It is worth noting that I have started solving these challenges during on doing 
 
 |Question|Points|
 |--------|------|
-|[Obedient Cat](General Skills/Obedient_Cat.md)|5|
-|[Python Wrangling](General Skills/Python_Wrangling.md)|10|
-|[Wave the Flag](General Skills/Wave_the_Flag.md)|10|
+|[Obedient Cat](General%20Skills/Obedient%20Cat.md)|5|
+|[Python Wrangling](General%20Skills/Python%20Wrangling.md)|10|
+|[Wave the Flag](General%20Skills/Wave%20the%20Flag.md)|10|
 
 </details>
 
@@ -27,7 +27,7 @@ It is worth noting that I have started solving these challenges during on doing 
 
 |Question|Points|
 |--------|------|
-|[Mod26](Cryptography/Mod26.md)[10]
+|[Mod26](Cryptography/Mod26.md)|10|
 
 </details>
 
