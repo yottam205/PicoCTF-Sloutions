@@ -1,11 +1,31 @@
 # PicoCTF-Sloutions
 #### Below are my attempts to solve the PicoCTF challenges
+#### Please note that here are all of my solutions, but, I also made a file for each challenge so it might be easier for you to look them up by their subject or name.
 
 **PicoCTF – How I’ve done things:**
 
 I am just getting into the world of cyber security and one of the million things I’ve heard in the past few weeks is CTF or Capture the Flag. Which is a kind of a technical challenge you need to complete. Here I’m trying to show my ways of making these challenges. It is well worth to note that PicoCTF is a middle/high school aimed platform, meaning they aim for that age. But, as a beginner in Cyber Security I believe I can get great value from these challenges and then, move on to others.
 It is worth noting that I have started solving these challenges during on doing the Google Cyber Security certification and after studying both introduction to computer science (CS50) and introduction to programming with Python (CS50P) from EdX and Harvard Uni.
 
+**Questions**
+
+<details>
+
+<summary>General Skills</summary>
+|Question|Points|
+|--------|------|
+|[Obedient Cat](General Skills/Obedient_Cat.md)|5|
+|[Python Wrangling](General Skills/Python_Wrangling.md)|10|
+|[Wave the Flag](General Skills/Wave_the_Flag.md)|10|
+
+</details>
+
+<details>
+
+<summary>Cryptography</summary>
+|Question|Points|
+|--------|------|
+|[Mod26](Cryptography/Mod26.md)[10]
 
 **Obedient Cat**
 
