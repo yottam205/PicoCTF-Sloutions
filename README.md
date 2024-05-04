@@ -7,7 +7,7 @@ I am just getting into the world of cyber security and one of the million things
 It is worth noting that I have started solving these challenges during on doing the Google Cyber Security certification and after studying both introduction to computer science (CS50) and introduction to programming with Python (CS50P) from EdX and Harvard Uni.
 
 
-** Obedient Cat:**
+** Obedient Cat**
 
 After signing up, that’s the first challenge I saw:
 
@@ -36,7 +36,7 @@ I didn’t feel it was necessary to take pictures of pasting the flag back in th
 The challenge was super easy and required almost no previous skills to figure out what is going on in it. Please note I didn’t use the hints although it is important to feel free and comfortable to use them, because at the end of the day, what we’re trying to do is to learn.
 
  
-**Mod 26:**
+**Mod 26**
 
 This challenge is in the Cryptography section and it is pretty straight forward as well:
 
