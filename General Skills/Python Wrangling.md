@@ -38,7 +38,8 @@ The last condition was for displaying the help message, which was already clear.
 At this point, I understood that the script could encrypt and decrypt files. I decided to try decrypting `flag.txt.en` using the following command:
 
 ```bash
-python ende.py -d flag.txt.en
+python ende.py -d flag.txt.en 
+```
 
 After executing the command, the program prompted me for a password. I used the password from pw.txt:
 
