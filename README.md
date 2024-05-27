@@ -14,7 +14,7 @@ I am new to cybersecurity and recently learned about CTF (Capture the Flag), a t
 |[Python Wrangling](General%20Skills/Python%20Wrangling.md)|10|
 |[Wave a Flag](General%20Skills/Wave%20a%20Flag.md)|10|
 |[what's a netcat](General%20Skills/what's%20a%20netcat.md)|100|
-|[Nice netcat...](General%20Skills/Nice%20netcat....md)|15|
+|[Nice netcat...](General%20Skills/Nice%20netcat.md)|15|
 |[Lets Warm Up](General%20Skills/Lets%20Warm%20Up.md)|50|
 </details>
 
