@@ -48,3 +48,16 @@ I am new to cybersecurity and recently learned about CTF (Capture the Flag), a t
 |[Transformation](Reverse%20Engineering/Transformation.md)|20|
 
 </details>
+
+
+<details>
+
+<summary>Web Exploitation</summary>
+
+|Question|Points|
+|--------|------|
+|[Get aHead](Web%20Exploitation/Get%20aHead.md)|20|
+
+</details>
+
+
